@@ -1,5 +1,5 @@
 import random 
-
+import time
 '''
 Autor: Martín Palomares García
 Fecha: 15/09/2023
@@ -39,10 +39,14 @@ def main():
     pesos = piedras()
     print (f"Las piedras son: {pesos}")
 
+    iniicio_tiempo = time.time()
     piedra_mas_ligera = balanza(pesos)
+    fin_tiempo = time.time()
+    
+    tiempo_total = fin_tiempo - iniicio_tiempo
     print (f"La piedra más ligera es: {piedra_mas_ligera}")
-
-
+    print (f"El tiempo total es: {tiempo_total:.4f} segundos")
+    print (f"BigO es: Olog(n)")
 if __name__ == "__main__":
     main()
 
