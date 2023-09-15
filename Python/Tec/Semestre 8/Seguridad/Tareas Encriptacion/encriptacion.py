@@ -3,7 +3,7 @@ import vigenere
 # Elaborado por Juan Pablo Ruiz y Martin Palomares
 # Problema 2 
 # RECUERDA CORRER PRIMERO EL ARCHIVO VIGENERE.PY PARA PODER ACCEDER A LA VARIABLE GLOBAL laLlaveAmo
-# Sabemos que es el orden correcto, pero los hackers no queremos que adivinene nuestro siguiente...
+# Sabemos que NO es el orden correcto, pero los hackers no queremos que adivinene nuestro siguiente...
 
 
 def elCifrador(texto, clave):
