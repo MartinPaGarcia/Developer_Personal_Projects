@@ -8,8 +8,6 @@ Descripción: Programa que encuentra la piedra más ligera de 10 piedras utiliza
 
 '''
 
-
-
 def piedras():
     n = 10
     piedras = []
