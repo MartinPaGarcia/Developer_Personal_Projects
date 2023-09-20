@@ -12,15 +12,12 @@ def promedio(edad, estatura, peso):
 
     return promedio_edad, promedio_estatura, promedio_peso
 
+# Calcula la estatura del más pesado
 def pesado(estatura, peso):
-    n = len(estatura)
-    pesado = 0
-    for i in range(n):
-        if peso[i] > pesado:
-            pesado = peso[i]
-            estatura_pesado = estatura[i]
-    return estatura_pesado
+    
+    return 0
 
+# Calcula la varianza de la edad, estatura y peso
 def varianza(edad, estatura, peso, promedio_edad, promedio_estatura, promedio_peso):
     n = len(edad)
     
@@ -47,8 +44,9 @@ def main():
     
     promedios = promedio(edad, estatura, peso)
     pesado_estatura = pesado(estatura, peso)
-    # Obtener la varianza
     varianza_edad, varianza_estatura, varianza_peso = varianza(edad, estatura, peso, *promedios)
+
+    #Promedios
     print(f"La edad promedio es: {promedios[0]}")
     print(f"La estatura promedio es: {promedios[1]}")
     print(f"El peso promedio es: {promedios[2]}")
