@@ -1,10 +1,3 @@
-'''
-Autor: Isabela Corena
-Maticula: 
-Fecha: 19/09/2023
-
-'''
-
 def calcular_promedio(valores):
     suma = sum(valores)
     promedio = suma / len(valores)
