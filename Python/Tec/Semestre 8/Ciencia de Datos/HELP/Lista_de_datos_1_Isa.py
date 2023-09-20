@@ -3,7 +3,6 @@ Autor: Isabela Corena
 Maticula: 
 Fecha: 19/09/2023
 
-
 '''
 
 def promedio(edad, estatura, peso):
