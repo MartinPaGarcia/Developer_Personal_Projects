@@ -52,7 +52,7 @@ def main():
     print(f"El peso promedio es: {promedios[2]}")
 
     #Ahora el promedio pesado
-    print(f"La estatura del más pesado es: {pesado_estatura}")
+    print(f"Promedio pesado: {pesado_estatura}")
 
     #Varianzas
     print(f"La varianza de la edad es: {varianza_edad}")
