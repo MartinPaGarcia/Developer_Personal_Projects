@@ -40,41 +40,6 @@ def main():
     print(f"La estatura del más pesado es: {pesado_estatura}")
 
     
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-
-
-
-
-varianza_edad = (sum(edad - promedio_edad)) ** 2 / n - 1
-varianza_estatura = (sum(estatura - promedio_estatura)) ** 2 / n - 1
-varianza_peso =  (sum(peso - promedio_peso)) ** 2 / n - 1
-
-
-print(promedio_edad)
-print(promedio_estatura)
-print(promedio_peso)
-
-print(pesado_estatura)
-
-print(varianza_edad)
-print(varianza_estatura)
-print(varianza_peso)
-'''
 
 
 if __name__ == "__main__":
