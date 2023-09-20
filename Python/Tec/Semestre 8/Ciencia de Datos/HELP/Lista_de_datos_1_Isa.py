@@ -12,10 +12,14 @@ def promedio(edad, estatura, peso):
 
     return promedio_edad, promedio_estatura, promedio_peso
 
+
+
 # Calcula la estatura del más pesado
 def pesado(estatura, peso):
     
     return 0
+
+
 
 # Calcula la varianza de la edad, estatura y peso
 def varianza(edad, estatura, peso, promedio_edad, promedio_estatura, promedio_peso):
