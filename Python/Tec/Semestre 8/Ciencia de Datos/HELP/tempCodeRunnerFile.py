@@ -1,10 +1,3 @@
-'''
-Autor: Isabela Corena
-Maticula: 
-Fecha: 19/09/2023
-
-'''
-
 def promedio(edad, estatura, peso):
     promedio_edad = (sum(edad))/len(edad)
     promedio_estatura = (sum(estatura))/len(estatura)
@@ -13,29 +6,16 @@ def promedio(edad, estatura, peso):
     return promedio_edad, promedio_estatura, promedio_peso
 
 def pesado(estatura, peso):
-    n = len(estatura)
-    pesado = 0
-    for i in range(n):
-        if peso[i] > pesado:
-            pesado = peso[i]
-            estatura_pesado = estatura[i]
-    return estatura_pesado
+    pesado_estatura = sum(1 / peso * estatura) / len(peso)
+    return pesado_estatura
 
 def varianza(edad, estatura, peso, promedio_edad, promedio_estatura, promedio_peso):
     n = len(edad)
-    
-    suma_edad = 0
-    suma_estatura = 0
-    suma_peso = 0
+    varianza_edad = (sum(edad - promedio_edad)) ** 2 / n - 1
+    varianza_estatura = (sum(estatura - promedio_estatura)) ** 2 / n - 1
+    varianza_peso = (sum(peso - promedio_peso)) ** 2 / n - 1
 
-    for i in range(n):
-        suma_edad += (edad[i] - promedio_edad) ** 2
-        suma_estatura += (estatura[i] - promedio_estatura) ** 2
-        suma_peso += (peso[i] - promedio_peso) ** 2
-
-    varianza_edad = suma_edad / (n - 1)
-    varianza_estatura = suma_estatura / (n - 1)
-    varianza_peso = suma_peso / (n - 1)
+    return varianza_edad, varianza_estatura, varianza_peso
 
     return varianza_edad, varianza_estatura, varianza_peso
 
