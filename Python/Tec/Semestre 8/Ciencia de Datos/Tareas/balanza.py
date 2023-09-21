@@ -47,6 +47,8 @@ def main():
     print (f"La piedra más ligera es: {piedra_mas_ligera}")
     print (f"El tiempo total es: {tiempo_total:.4f} segundos")
     print (f"BigO es: Olog(n)")
+
+    
 if __name__ == "__main__":
     main()
 
