@@ -13,8 +13,12 @@ import numpy as np
 def calcular_promedio(columna):
     return np.mean(columna.astype(float))
 
+
+
 def calcular_varianza(columna):
     return np.var(columna.astype(float))
+
+
 
 def promedio_ponderado(columna):
     total = 0
@@ -27,6 +31,8 @@ def promedio_ponderado(columna):
         return 0
     promedio_ponderado = total / peso_total
     return promedio_ponderado
+
+
 
 def imprimir_promedios_ponderados(datos):
     edades = datos[1:,1].astype(float)
@@ -63,6 +69,8 @@ def imprimir_estadisticas(datos):
     print(f"Varianza de edades: {varianza_edades}")
     print(f"Varianza de estaturas: {varianza_estaturas}")
     print(f"Varianza de pesos: {varianza_pesos}")
+
+
 
 def main():
     datos = [
