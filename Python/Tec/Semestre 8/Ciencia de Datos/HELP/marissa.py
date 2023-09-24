@@ -24,9 +24,9 @@ def dado(): #funcion que genera un numero aleatorio entre 1 y 6
     if dado < 3:
         print(f"La cantidad de intentos que tienes para usar la balanza es: {dado}")
         print("No puedes usar la balanza, vuelve a arrojar el dado")
-        dado = random.randint(1, 6)
+        return dado()
     else: 
-        return dado
+        return dado_resultado
  
 
 def imprimeInstrucciones(): #funcion que imprime las instrucciones del juego
