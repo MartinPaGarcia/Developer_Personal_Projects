@@ -1,18 +1,7 @@
 '''
- import random 
-
-print("En esta ronda...")
-cantidadint = random.randint(1, 6)  
-print(f"La cantidad de intentos que tienes para usar la balanza es: {cantidadint}")
-
-piedras = (1000*9)
-piedral = 950
-
-for intento in range(cantidadint):
- 
-    print("Selecciona dos piedras entre (1-10) para poner en la balanza")
-    piedra1 = int(input("Primera piedra: "))
-    piedra2 = int(input("Segunda piedra: "))
+Nombre: Marissa 
+Matricula
+Fecha:
 
 '''
 
