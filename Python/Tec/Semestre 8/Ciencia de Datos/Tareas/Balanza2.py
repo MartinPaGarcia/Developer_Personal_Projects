@@ -1,3 +1,11 @@
+'''
+Autor: Martín Palomares García
+Fecha: 15/09/2023
+Matricula: A01066569
+Descripción: Programa que encuentra la piedra más ligera de 10 piedras utilizando una balanza.
+
+'''
+
 import random
 
 def dado():
@@ -75,7 +83,7 @@ def main ():
         print("Es imposible ganar con menos de 3 intentos. ")
         print("Se vuelve a tirar el dado")
         tira_dado = dado()
-        
+
     piedritas = piedras()
     print("")
     print(f"El dado te dio: {tira_dado}")
