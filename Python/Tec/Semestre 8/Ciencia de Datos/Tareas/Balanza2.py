@@ -1,6 +1,5 @@
 import random
 
-
 def dado():
     dado=random.randint(1,6)
     return dado
@@ -10,7 +9,6 @@ def piedras():
     random.shuffle(piedras)
     return piedras
 
-
 def lados(piedritas):
     num_piedras = len(piedritas)
     mitad = num_piedras // 2
@@ -19,20 +17,38 @@ def lados(piedritas):
     return izquierda, derecha
 
 def balanza(tira_dado, piedritas):
+    piedritas = piedras()
     intentos = tira_dado
     print(f"Tus intentos restantes son: {intentos}")
     print(f"Tienes {len(piedritas)} piedras, por lo tanto, tendrás que colocar {len(piedritas) // 2} en cada platillo")
     while intentos > 0 and len(piedritas) > 1:
         izquierda, derecha = lados(piedritas)
-        piedritas = izquierda
+        sobrante = None
+        if len(piedritas) % 2 != 0:
+            sobrante = min(izquierda + derecha)
+            if sobrante in izquierda:
+                izquierda.remove(sobrante)
+            else:
+                derecha.remove(sobrante)
+        if sum(izquierda) > sum(derecha):
+            piedritas = derecha
+        else:
+            piedritas = izquierda
+
+        if sobrante is not None:
+            piedritas.append(sobrante)
         intentos -= 1
         print(f"Tus intentos restantes son: {intentos}")
         if len(piedritas) > 1:
             print(f"Tienes {len(piedritas)} piedras, por lo tanto, tendrás que colocar {len(piedritas) // 2} en cada platillo")
-    if len(piedritas) == 1:
-        print("¡Felicidades! Has encontrado la piedra más ligera.")
+        print(f"Piedras restantes: {list(range(len(piedritas)))}")  
+    
+
+    if sum(izquierda) == sum(derecha):
+        print(f"La piedra que pesa menos es: {piedritas[0]}")
     else:
-        print("Lo siento, has agotado tus intentos.")
+        print(f"La piedra que pesa menos es: {piedritas[0]}")
+    
 
 
 def jugador():
@@ -59,8 +75,12 @@ def main ():
         print("Es imposible ganar con menos de 3 intentos. ")
         print("Se vuelve a tirar el dado")
         tira_dado = dado()
+        
     piedritas = piedras()
-    laBalanza = balanza(tira_dado, piedritas)
+    print("")
+    print(f"El dado te dio: {tira_dado}")
+    print("")
+    balanza(tira_dado, piedritas)
     
 
 
