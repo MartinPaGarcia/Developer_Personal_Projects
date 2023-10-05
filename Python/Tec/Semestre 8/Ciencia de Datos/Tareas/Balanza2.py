@@ -4,6 +4,7 @@ Fecha: 15/09/2023
 Matricula: A01066569
 Descripción: Programa que encuentra la piedra más ligera de 10 piedras utilizando una balanza.
 
+No hice modificaciones, prometo no entregar otro codigo tan feo como este.
 '''
 
 import random
