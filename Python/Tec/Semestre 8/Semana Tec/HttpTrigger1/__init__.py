@@ -4,7 +4,7 @@ import azure.functions as func
 import openaikey
 # sample request
 # {"model":"text-davinci-003", "prompt":"dame un slogan para una empresa de inteligencia artificial", "max_tokens":200, "temperature":0}
-openai.api_key = secret_key
+secret_key = openai.api_key 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
 
