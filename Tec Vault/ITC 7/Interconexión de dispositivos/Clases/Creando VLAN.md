@@ -1,7 +1,3 @@
----
-banner: "https://wallpaperaccess.com/full/99789.jpg"
-banner_y: 0.168
----
 
 # Rangos de Switches Catalyst
 

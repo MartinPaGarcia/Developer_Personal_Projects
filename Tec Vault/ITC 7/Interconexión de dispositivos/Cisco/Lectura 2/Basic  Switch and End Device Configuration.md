@@ -1,8 +1,3 @@
----
-banner: "https://images.wallpapersden.com/image/download/minimal-hd-landscape_bWhsZ2WUmZqaraWkpJRmbmdlrWZlbWU.jpg"
-banner_y: 0.828
-banner_icon: 🧑‍🚀
----
 
 #Network #Cisco 
 

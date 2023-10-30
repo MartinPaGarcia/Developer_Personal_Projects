@@ -11340,6 +11340,7 @@ colegio
 ces
 cristianismo
 culto
+creation
 Telefono
 TCP
 Tecnolog
@@ -20403,6 +20404,7 @@ HMW
 Hku
 HkhT
 HkWx
+History
 Que
 Qu
 QPSK

@@ -1,8 +1,3 @@
-e---
-banner: "https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/12.jpg?3"
-banner_y: 0.408
----
-
 # iOS Help Features
 
 ## Useful commands 

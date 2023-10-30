@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md",
+                "file": "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0803deb3ae182187",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md",
+                "file": "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md",
+                "file": "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md"
+                "file": "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md"
               }
             }
           },
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,25 +172,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "card-board:CardBoard": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Copilot Chat": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9c46385bb838b3fb",
   "lastOpenFiles": [
+    "ITC 8/Matemáticas para la Ciencia de Datos/Problema 2.md",
+    "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
+    "ITC 8/Matemáticas para la Ciencia de Datos/Matemáticas para ciencia de datos.md",
+    "ITC 8/Instituciones Jurídicas/Los inicios del imperio Romano.md",
+    "ITC 8/Instituciones Jurídicas/Instituciones políticas.md",
+    "ITC 7/Tips.md",
+    "ITC 7/ITC 7.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Creando VLAN.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Formulario.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 3/Protcols and Models.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 2/Basic  Switch and End Device Configuration.md",
     "ITC 7/Daily tasks.md",
-    "日本語.md",
-    "Vault Contents.md",
-    "Python/Manim/Manim Contents.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 1/Módulo 1 Networking Today.md",
+    "ITC 7/Análisis Financiero/Información financiera (Entidades Económica).md",
+    "ITC 7/Interconexión de dispositivos/Proyecto.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 7.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 6.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 5.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 4.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Modelo OSI.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 1.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 2.md",
+    "HTB Academy/Linux Fundamentals/Linux Structure.md",
+    "HTB Academy/HTB Academy Contents.md",
     "Python/Python Contents.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Python/Manim",
     "Python",
     "Photos/Screenshot 2023-08-23 at 11.39.32 p.m..png",
@@ -203,34 +224,13 @@
     "Photos/Screenshot 2023-02-23 at 1.42.27.png",
     "Photos/Screenshot 2023-02-23 at 1.40.55.png",
     "Photos",
-    "Notas personales/Viaje 2018/Días.md",
-    "Notas personales/Viaje 2018/14 De Junio 2018.md",
-    "Notas personales/Viaje 2018/13 De Junio 2018.md",
-    "Notas personales/Viaje 2018/12 De Junio 2018.md",
     "Notas personales/Viaje 2018",
-    "Notas personales/Personal Contents.md",
-    "Notas personales/Meditaciones de Marco Aurelio.md",
     "Notas personales",
-    "Link Library/Learning Links/Learning.md",
-    "Link Library/Link Contents.md",
     "Link Library/Learning Links",
     "Link Library",
-    "ITC 8/Seguridad Informática/Untitled.md",
-    "ITC 8/Seguridad Informática/Tipos de Cifrado.md",
-    "ITC 8/Seguridad Informática/Seguridad.md",
-    "ITC 8/Seguridad Informática/Direccionamiento IP.md",
-    "ITC 8/Seguridad Informática/Desarrollo web y pruebas de calidad de Software.md",
-    "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
-    "ITC 8/Matemáticas para la Ciencia de Datos/Problema 2.md",
-    "ITC 8/Matemáticas para la Ciencia de Datos/Matemáticas para ciencia de datos.md",
-    "ITC 8/Instituciones Jurídicas/Los inicios del imperio Romano.md",
-    "ITC 8/Instituciones Jurídicas/Instituciones políticas.md",
     "ITC 8/Seguridad Informática",
     "ITC 8/Matemáticas para la Ciencia de Datos",
     "ITC 8/Instituciones Jurídicas",
-    "ITC 8/ITC 8.md",
-    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 3/The Rules.md",
-    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 3/Standard Organizations.md",
     "ITC 7/Diagramas/CSMACD.canvas"
   ]
 }

@@ -1,7 +1,3 @@
----
-banner: " https://w0.peakpx.com/wallpaper/949/783/HD-wallpaper-cisco-turquoise-logo-turquoise-brickwall-cisco-logo-brands-cisco-neon-logo-cisco.jpg"
-banner_y: 0.592
----
 
 #Network #Cisco 
 

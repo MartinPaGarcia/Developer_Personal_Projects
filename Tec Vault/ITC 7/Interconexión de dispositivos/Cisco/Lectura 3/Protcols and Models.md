@@ -1,6 +1,3 @@
----
-banner: "https://image.winudf.com/v2/image/bWUud2FsbHBhcGEuYW1vbGVkX3NjcmVlbl85XzE1MzAwNjY0MTVfMDY4/screen-9.jpg?fakeurl=1&type=.webp"
----
 
 #Network #Cisco 
 

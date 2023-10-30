@@ -1,6 +1,3 @@
----
-banner: "https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1024x683.jpg"
----
 
 # Problema 1
 

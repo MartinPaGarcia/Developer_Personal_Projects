@@ -1,7 +1,3 @@
----
-banner: "https://images5.alphacoders.com/438/438463.png"
-banner_y: 0.776
----
 
 
 # Subnetting

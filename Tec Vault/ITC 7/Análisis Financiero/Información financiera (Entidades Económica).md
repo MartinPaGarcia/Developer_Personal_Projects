@@ -1,7 +1,3 @@
----
-banner: "https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/non-4k/original/23.jpg?3"
-banner_y: 0.596
----
 
 
 # Que es una entidad económica 

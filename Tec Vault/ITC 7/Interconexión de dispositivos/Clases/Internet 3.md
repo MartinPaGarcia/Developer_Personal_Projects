@@ -1,7 +1,3 @@
----
-banner: "https://rare-gallery.com/mocahbig/394731-wallpaper-night-city-abstract-art-minimalist-4k.jpg"
-banner_y: 0.524
----
 
 
 # Time Division Multiplexing

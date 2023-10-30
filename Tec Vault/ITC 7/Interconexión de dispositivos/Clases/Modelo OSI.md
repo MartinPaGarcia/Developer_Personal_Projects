@@ -1,7 +1,3 @@
----
-banner: "https://a-static.besthdwallpaper.com/hi-tech-abstract-blue-interface-wallpaper-2560x1440-63713_51.jpg"
-banner_y: 0.424
----
 
 #Redes #Internet #Capas_OSI 
 

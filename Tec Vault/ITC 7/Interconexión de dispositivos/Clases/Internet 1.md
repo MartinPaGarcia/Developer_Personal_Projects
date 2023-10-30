@@ -1,7 +1,3 @@
----
-banner: "https://images.unsplash.com/photo-1597733336794-12d05021d510?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJuZXR8ZW58MHx8MHx8&w=1000&q=80"
-banner_y: 0.376
----
 
 #Redes #Internet  
 Hecho por: Martín Palomares García A01066569

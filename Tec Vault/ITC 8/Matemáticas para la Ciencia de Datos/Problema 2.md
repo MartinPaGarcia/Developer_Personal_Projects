@@ -1,7 +1,3 @@
----
-banner: "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&w=1000&q=80"
-banner_icon: 🧑‍🚀
----
 # Problema 2
 
 Sabemos que para este problema el _usuario_ debe ingresar a la computadora sus dos pagos quincenales, porque el ISR es en un mes. Por lo tanto, debemos ingresar los dos pagos quincenales para ver cuánto de ISR se debe pagar.
