@@ -1,0 +1,7 @@
+El kernel es definido como el núcleo o corazón del sistema operativo, y se encarga principalmente de mediar entre los procesos de usuario y el hardware disponible en la máquina, es decir, concede el acceso al hardware, al software que lo solicite, de una manera segura; y el procesamiento paralelo de varias tareas.
+
+Este núcleo gestiona recursos mediante servicios de llamada al sistema operativo y decide cuáles son los programas que harán uso de un dispositivo de hardware y cuál será su duración, distribuyendo los recursos de la mejor forma, para que los componentes externos e internos del ordenador puedan trabajar en conjunto. Otra de sus funciones, es la de administrar la memoria de los procesos y programas en ejecución.
+
+El kernel también se encarga de conceder permisos, facilitar la comunicación entre programas, de gestionar las diversas labores de un dispositivo, manejar el procesador, periférico y almacenamiento el sistema. Básicamente, el núcleo del sistema será el principal responsable del funcionamiento de la máquina y la administración de sistema, desde su arranque.
+
+El núcleo Kernel consta de diferentes capas que conforman su estructura, siendo la más baja, la interfaz con el hardware, la cual se encarga tareas como el control de red. La siguiente capa es la de gestión de memoria, que tiene por función distribuir la memoria RAM y la memoria virtual. Sobre esta capa se encuentra el gestor de procesos, el cual controla lo relacionado con el tiempo, permitiendo la realización de varias actividades a la vez o multitasking.

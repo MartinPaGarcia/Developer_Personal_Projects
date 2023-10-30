@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fc48856f84b765c6","x":-125,"y":-31,"width":183,"height":153,"color":"4","type":"text","text":"Dispositivo:\nA\n"},
+		{"id":"6d6b6a6edab8db7b","x":155,"y":-31,"width":110,"height":153,"color":"5","type":"text","text":"HUB"},
+		{"id":"6e8707855bd3054c","x":119,"y":216,"width":183,"height":153,"color":"4","type":"text","text":"Dispositivo:\nB\n"}
+	],
+	"edges":[
+		{"id":"f05ad600eac1ed6d","fromNode":"fc48856f84b765c6","fromSide":"right","toNode":"6d6b6a6edab8db7b","toSide":"left"},
+		{"id":"69fbaa0f4e0b3c97","fromNode":"6d6b6a6edab8db7b","fromSide":"bottom","toNode":"6e8707855bd3054c","toSide":"top"}
+	]
+}

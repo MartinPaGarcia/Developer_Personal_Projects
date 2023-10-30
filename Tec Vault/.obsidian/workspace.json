@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "1e279d16ce033de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "391afe14e8511577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886c7934a7110651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 7/Interconexión de dispositivos/Clases/Formulario.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d99b3648b7ad34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "586512eb05f7b67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c4f6854588eca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bcaa08ff489365",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4508cd64f76dec66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Cisco",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2d67dc563f8b0d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "843dd0c10577cb88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f6a56e64244d991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dd428872de8a9856",
+    "type": "split",
+    "children": [
+      {
+        "id": "102e5f7f8942c06b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5999d2a59bbf16cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de39f2f9e4f99481",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9ed7edf36bcc357",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 4.md"
+              }
+            }
+          },
+          {
+            "id": "57a4f86c7746df8c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e94eaf639c423bbe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cffd93596782e55c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ITC 7/Interconexión de dispositivos/Clases/Internet 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e2559c7375d9fc3",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "779aefb0c6dbcbd6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 745.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "9d99b3648b7ad34a",
+  "lastOpenFiles": [
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 2.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 1.md",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 7.md",
+    "ITC 8/Matemáticas para la Ciencia de Datos/Problema 2.md",
+    "ITC 8/Matemáticas para la Ciencia de Datos/Matemáticas para ciencia de datos.md",
+    "ITC 8/Matemáticas para la Ciencia de Datos/Problemas.md",
+    "ITC 8/Seguridad Informática/Untitled.md",
+    "ITC 8/Instituciones Jurídicas/Instituciones políticas.md",
+    "Python/Python Contents.md",
+    "Python/Manim/Manim Contents.md",
+    "Notas personales/Personal Contents.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 2/The Command Structure.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 2/Basic  Switch and End Device Configuration.md",
+    "ITC 7/Análisis Financiero/Información financiera (Entidades Económica).md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 1/Network representations and Topologies.md",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 2/Configure IP Addressing.md",
+    "Vault Contents.md",
+    "日本語.md",
+    "ITC 8/Instituciones Jurídicas/Los inicios del imperio Romano.md",
+    "ITC 8/ITC 8.md",
+    "Photos/Pasted image 20230823183538.png",
+    "Photos/Screenshot 2023-08-23 at 11.39.32 p.m..png",
+    "ITC 7/Interconexión de dispositivos/Cisco/Lectura 3/Standard Organizations.md",
+    "ITC 8/Seguridad Informática/Tipos de Cifrado.md",
+    "ITC 8/Seguridad Informática/Seguridad.md",
+    "ITC 8/Seguridad Informática/Desarrollo web y pruebas de calidad de Software.md",
+    "Photos/Pasted image 20230817182508.png",
+    "Photos/Pasted image 20230823182441.png",
+    "Photos/Pasted image 20230823180806.png",
+    "Photos/Pasted image 20230823175824.png",
+    "Photos/Pasted image 20230823175804.png",
+    "Photos/Pasted image 20230823175748.png",
+    "ITC 7/Interconexión de dispositivos/Clases/Internet 3.md",
+    "ITC 7/Interconexión de dispositivos/Proyecto.md",
+    "Photos/Screenshot 2023-08-21 at 10.41.18 p.m..png",
+    "Photos/Screenshot 2023-08-21 at 10.40.49 p.m..png",
+    "ITC 8/Matemáticas para la Ciencia de Datos",
+    "ITC 8/Seguridad Informática",
+    "ITC 8/Instituciones Jurídicas",
+    "ITC 8",
+    "Untitled.canvas",
+    "Notas personales/Viaje 2018",
+    "Notas personales",
+    "ITC 7/Diagramas/CSMACD.canvas",
+    "ITC 7/Análisis Financiero"
+  ]
+}
