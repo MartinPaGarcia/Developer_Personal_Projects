@@ -1,6 +1,6 @@
 // Arrays
 func fruits() {
-    let fruit = ["apple", "banana", "orange"]  // Array of strings
+    let fruit:[String] = ["apple", "banana", "orange"]  // Array of strings
     print(fruit)
 }
 
@@ -16,7 +16,7 @@ func emptyArrays() {
 func controlFlow() {
     // Use if and switch to make conditionals, use for-in, while, and repeat-while to make loops. Parentheses
     // around the condition or loop variable are optional. Braces around the body are required.
-    let individualScores = [75, 43, 103, 87, 12]
+    let individualScores:[Int] = [75, 43, 103, 87, 12]
     var teamScore = 0
     for score in individualScores {
         if score > 50 {
@@ -26,6 +26,13 @@ func controlFlow() {
         }
     }
     print(teamScore)
+
+    let scoreDecoration:String = if teamScore > 10 {
+        "You win!"
+    } else {
+        "You lose!"
+    }
+    print("Score: ", teamScore, "", scoreDecoration)
 }
 
 func main() {
