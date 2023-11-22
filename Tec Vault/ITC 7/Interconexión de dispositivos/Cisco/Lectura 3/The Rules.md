@@ -1,7 +1,3 @@
----
-banner: "https://www.pcclean.io/wp-content/uploads/2020/4/JjUjya.jpg"
-banner_y: 0.68
----
 
 #Network #Cisco 
 
