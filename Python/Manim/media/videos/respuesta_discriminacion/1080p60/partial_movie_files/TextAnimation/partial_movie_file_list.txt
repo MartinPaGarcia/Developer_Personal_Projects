@@ -1,5 +1,4 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/3977891868_2885051369_674617021.mp4'
-file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/2852726489_3890345977_547262304.mp4'
-file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/2852726489_699259245_4006638947.mp4'
-file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/2852726489_3890345977_4205256062.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/3977891868_2856909531_674617021.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/2852726489_2354374403_75672763.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/respuesta_discriminacion/1080p60/partial_movie_files/TextAnimation/2852726489_1141282389_962852983.mp4'
