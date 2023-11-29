@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/3977891868_2845698976_223132457.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_3597984226_2882375946.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_3890345977_2704710689.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_3292889646_301715492.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_3890345977_1661626123.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_2703295262_3806172359.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/manimtest/1080p60/partial_movie_files/SocioeconomicSurveyBarChart/2852726489_1141282389_4028767816.mp4'
