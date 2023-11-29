@@ -13,15 +13,13 @@ class TextAnimation(Scene):
         self.play(Write(text1))  
         self.play(ApplyMethod(text1.move_to, UP+ UP + UP + LEFT * 2))
         self.wait(1.5)
-        # Positioning subsequent texts
+
         text2.next_to(text1, DOWN  * 3, aligned_edge=LEFT, buff=0.2)
         text3.next_to(text2,  DOWN * 2, aligned_edge=LEFT, buff=0.2)
-        text4.next_to(text3,  DOWN * 2 , aligned_edge=LEFT, buff=0.2)  # Corregir esta línea
+        text4.next_to(text3,  DOWN * 2 , aligned_edge=LEFT, buff=0.2) 
 
-        # text4.next_to(text3,  DOWN )  # Corregir esta línea
-       
-        # Animating the appearance of subsequent texts
-        self.play(Write(text2), Write(text3), Write(text4))  # Animar text4 
+
+        self.play(Write(text2), Write(text3), Write(text4))   
 
         self.wait(5)
 
