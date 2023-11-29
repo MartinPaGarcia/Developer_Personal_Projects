@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/animacion_mapa/1080p60/partial_movie_files/ImageAnimation/3977891868_2552822065_223132457.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/animacion_mapa/1080p60/partial_movie_files/ImageAnimation/2852726489_3257661881_2717618463.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/animacion_mapa/1080p60/partial_movie_files/ImageAnimation/2852726489_4121654107_1428998561.mp4'

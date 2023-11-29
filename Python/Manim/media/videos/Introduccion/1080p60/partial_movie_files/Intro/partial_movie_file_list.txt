@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/3977891868_3145917879_223132457.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_2221311056_4246457343.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_2354374403_3655523673.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_72643070_2999133069.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_327125648_2287540167.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_1141282389_825859319.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_3666928895_3734853338.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_847724225_215567578.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/Introduccion/1080p60/partial_movie_files/Intro/2852726489_290787884_99561084.mp4'
