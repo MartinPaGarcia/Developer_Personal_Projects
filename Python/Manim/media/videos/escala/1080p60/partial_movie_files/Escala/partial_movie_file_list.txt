@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/3977891868_1242514452_223132457.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_2360396097_3639479170.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_3890345977_1851159850.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_4161284816_4089248079.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_3890345977_4240035713.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_2034944760_2815241283.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_3257661881_2405866901.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_4251092511_3293555352.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_178118461_1417316824.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/escala/1080p60/partial_movie_files/Escala/2852726489_3494502961_4187758079.mp4'
