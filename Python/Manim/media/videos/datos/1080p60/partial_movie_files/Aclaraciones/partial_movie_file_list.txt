@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/3977891868_675876077_223132457.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_3890345977_687053148.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_1917768089_1093057277.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_2636292063_2439670783.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_2796324682_1530185511.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_3280786134_990436383.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_255102487_447835437.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_3433502245_1689623700.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_1577368508_1996198681.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_3883141465_318833998.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_3554563483_1668638537.mp4'
+file 'file:C:/Users/marti/OneDrive/Escritorio/Developer/Python/Manim/media/videos/datos/1080p60/partial_movie_files/Aclaraciones/2852726489_2270756796_3039027708.mp4'
